@@ -25,7 +25,7 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 <br><br>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Get to know me a little...***
 ### I am a Full Stack Developer
 - 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>
 - 🔭 I’m currently working on my Portfolio Website :grin:
