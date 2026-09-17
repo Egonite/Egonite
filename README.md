@@ -28,11 +28,12 @@
 <img align="right" height="250px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 ### 🚀 About Me
-- 🔭 **Currently working on:** Web application development, backend systems, and server networks.
+
+- 🔭 **Currently working on:** Web application development, backend systems, and Minecraft server infrastructure.
 - 🤖 **Specialization:** AI integration, AI Agents, and automation bots (Discord, WhatsApp, Telegram).
-- 🛠️ **Technical focus:** Code auditing, optimization, project builds, and database management.
-- 👯 **Collaborations:** Open to collaborating on open-source software and complex systems.
-- 💬 **Ask me about:** Java, Node.js, C++, bot development, or AI—happy to help!
+- 🛠️ **Technical focus:** Minecraft plugin development, code auditing, optimization, builds, and databases.
+- 👯 **Collaborations:** Open to collaborating on open-source projects, custom plugins, and complex systems.
+- 💬 **Ask me about:** Java, Node.js, C++, Minecraft Dev, bot development, or AI—happy to help!
 
 <br>
 
@@ -50,19 +51,38 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
+<br>
+
 **Database & Cloud Services**
 <p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
+<br>
+
+**Minecraft Development & Server Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Minecraft_Dev-2E7D32?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Dev" />
+  <img src="https://img.shields.io/badge/Spigot_%2F_Paper-F88D00?style=for-the-badge&logo=mojang&logoColor=white" alt="Spigot Paper" />
+  <img src="https://img.shields.io/badge/Custom_Plugins-1E88E5?style=for-the-badge&logo=java&logoColor=white" alt="Custom Plugins" />
+  <img src="https://img.shields.io/badge/Server_Networks-5E35B1?style=for-the-badge&logo=serverless&logoColor=white" alt="Server Networks" />
+</p>
+
+<br>
+
 **Build Tools & Environments**
 <p>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+<br>
 
 **AI & Automation**
 <p>
