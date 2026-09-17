@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img alt="Visitas al perfil" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEgonite&count_bg=%2323D18B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false"/>
+  <img src="https://komarev.com/ghpvc/?username=Egonite&label=Profile%20views&color=0047AB&style=plastic" alt="Profile views" height="25" />
 </p>
 
 <p align="center">
