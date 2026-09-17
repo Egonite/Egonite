@@ -25,7 +25,7 @@
 
 <br><br>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Get to know me a little...***
-<img align="right" height="250px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
 
 ### 🚀 About Me
 
